@@ -5,7 +5,7 @@
 Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/jvlima-ufsm/EADPG115r/master?filepath=03notebook.ipynb)
 
 
-# RStudio
+# RStudio (todas as aulas)
 
 RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/jvlima-ufsm/EADPG115r/master?urlpath=rstudio)
 
