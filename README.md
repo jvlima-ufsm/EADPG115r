@@ -1,10 +1,15 @@
-# Specifying an R environment with a runtime.txt file
 
-Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/r/master?filepath=index.ipynb)
 
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/r/master?urlpath=rstudio)
+# 03 - Variáveis, operadores aritméticos, estruturas de dados
 
-RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/r/master?urlpath=shiny/bus-dashboard/)
+Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/jvlima-ufsm/EADPG115r/master?filepath=03notebook.ipynb)
+
+
+# RStudio
+
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/jvlima-ufsm/EADPG115r/master?urlpath=rstudio)
+
+# Details
 
 Binder supports using R and RStudio, with libraries pinned to a specific
 snapshot on [packagemanager.rstudio.com](https://packagemanager.rstudio.com/client/#/).
