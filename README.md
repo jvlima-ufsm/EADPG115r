@@ -5,6 +5,10 @@
 Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/jvlima-ufsm/EADPG115r/master?filepath=03notebook.ipynb)
 
 
+# 05 - Estruturas de decisão 
+
+Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/jvlima-ufsm/EADPG115r/master?filepath=05notebook.ipynb)
+
 # RStudio (todas as aulas)
 
 RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/jvlima-ufsm/EADPG115r/master?urlpath=rstudio)
