@@ -9,6 +9,16 @@ Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v
 
 Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/jvlima-ufsm/EADPG115r/master?filepath=05notebook.ipynb)
 
+
+# 09 - Análise de dados em R
+
+Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/jvlima-ufsm/EADPG115r/master?filepath=09notebook.ipynb)
+
+# 011 - Estudo de caso - R
+
+Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/jvlima-ufsm/EADPG115r/master?filepath=11notebook.ipynb)
+
+
 # RStudio (todas as aulas)
 
 RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/jvlima-ufsm/EADPG115r/master?urlpath=rstudio)
